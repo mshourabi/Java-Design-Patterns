@@ -1,4 +1,4 @@
-package net.majid.creational.abstractfactory.product;
+package net.majid.creational.abstractfactory.example01.product;
 
 /**
  * @author majid.shoorabi

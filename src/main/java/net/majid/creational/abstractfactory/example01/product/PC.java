@@ -1,4 +1,4 @@
-package net.majid.creational.abstractfactory.product;
+package net.majid.creational.abstractfactory.example01.product;
 
 /**
  * @author majid.shoorabi
@@ -6,13 +6,13 @@ package net.majid.creational.abstractfactory.product;
  * @project IntelliJ IDEA
  */
 
-public class Server extends Computer {
+public class PC extends Computer {
 
     private String ram;
     private String hdd;
     private String cpu;
 
-    public Server(String ram, String hdd, String cpu){
+    public PC(String ram, String hdd, String cpu){
         this.ram=ram;
         this.hdd=hdd;
         this.cpu=cpu;
@@ -31,5 +31,4 @@ public class Server extends Computer {
     public String getCPU() {
         return this.cpu;
     }
-
 }

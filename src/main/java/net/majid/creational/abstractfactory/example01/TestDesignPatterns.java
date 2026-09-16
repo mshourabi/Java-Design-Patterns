@@ -1,6 +1,6 @@
-package net.majid.creational.abstractfactory;
+package net.majid.creational.abstractfactory.example01;
 
-import net.majid.creational.abstractfactory.product.Computer;
+import net.majid.creational.abstractfactory.example01.product.Computer;
 
 /**
  * @author majid.shoorabi
