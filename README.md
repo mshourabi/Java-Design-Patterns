@@ -6,18 +6,18 @@ Implement Design Patterns in java.
 ## 1. Creational Patterns
 These patterns concern class and object composition, ensuring that changes in one part do not require altering the entire system.
 
-• Singleton: Ensures that a class has only one instance and provides a global point of access to it.
+# • Singleton: Ensures that a class has only one instance and provides a global point of access to it.
 
-• Factory Method: Defines an interface for creating an object, but lets subclasses alter the type of objects that will be created.
+# • Factory Method: Defines an interface for creating an object, but lets subclasses alter the type of objects that will be created.
 	• Java Library Example: java.util.Calendar#getInstance()
 	
-• Abstract Factory: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+# • Abstract Factory: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
-• Builder: Separates the construction of a complex object from its representation, allowing step-by-step construction.
-	• Java Library Example: java.lang.StringBuilder#append()
+# • Builder: Separates the construction of a complex object from its representation, allowing step-by-step construction.
+	 • Java Library Example: java.lang.StringBuilder#append()
 	
-• Prototype: Creates new objects by copying (cloning) an existing instance rather than creating from scratch.
-	• Java Library Example: java.lang.Object#clone()
+# • Prototype: Creates new objects by copying (cloning) an existing instance rather than creating from scratch.
+	 • Java Library Example: java.lang.Object#clone()
 
 
 ## 2. Structural Patterns
