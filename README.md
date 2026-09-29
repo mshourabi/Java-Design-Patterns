@@ -12,87 +12,84 @@ The project contains Java implementations and examples of the three main categor
 
 ## 1. Creational Patterns
 
-### Singleton
+  * Singleton
+  * Factory Method
 
-### Factory Method
+    **Java Library Example:**
 
-**Java Library Example:**
+      `java.util.Calendar#getInstance()`
 
-`java.util.Calendar#getInstance()`
+  * Abstract Factory
 
-### Abstract Factory
+  * Builder
 
-### Builder
+    **Java Library Example:**
 
-**Java Library Example:**
+      `java.lang.StringBuilder#append()`
 
-`java.lang.StringBuilder#append()`
+  * Prototype
 
-### Prototype
+    **Java Library Example:**
 
-**Java Library Example:**
-
-`java.lang.Object#clone()`
+      `java.lang.Object#clone()`
 
 ---
 
 ## 2. Structural Patterns
 
-### Adapter
+  * Adapter
 
-**Java Library Example:**
+    **Java Library Example:**
 
-`java.util.Arrays#asList()`
+      `java.util.Arrays#asList()`
 
-### Bridge
+  * Bridge
 
-### Composite
+  * Composite
 
-### Decorator
+  * Decorator
 
-**Java Library Example:**
+    **Java Library Example:**
 
-`java.io.BufferedReader`
+      `java.io.BufferedReader`
 
-### Facade
+  * Facade
 
-### Flyweight
+  * Flyweight
 
-**Java Library Example:**
+    **Java Library Example:**
 
-`java.lang.Integer#valueOf(int)`
+      `java.lang.Integer#valueOf(int)`
 
-### Proxy
+  * Proxy
 
 ---
 
 ## 3. Behavioral Patterns
 
-### Chain of Responsibility
+  * Chain of Responsibility
 
-### Command
+  * Command
 
-### Interpreter
+  * Interpreter
 
-### Iterator
+  *  Iterator
+  
+    **Java Library Example:**
 
-**Java Library Example:**
+      `java.util.Iterator`
 
-`java.util.Iterator`
+  * Mediator
 
-### Mediator
+  * Memento
 
-### Memento
+  * Observer
 
-### Observer
+  * State
 
-### State
+  * Strategy
 
-### Strategy
+  * Template Method
 
-### Template Method
+  * Visitor
 
-### Visitor
-
-
-</div>
