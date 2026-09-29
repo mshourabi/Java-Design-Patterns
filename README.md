@@ -16,7 +16,7 @@ These patterns concern class and object composition, ensuring that changes in on
 	• Java Library Example: java.lang.Object#clone()
 
 
-##2. Structural Patterns
+## 2. Structural Patterns
 These patterns concern class and object composition, ensuring that changes in one part do not require altering the entire system.
 
 • Adapter: Bridges incompatible interfaces to let them collaborate. Example: java.util.Arrays#asList().
@@ -28,7 +28,7 @@ These patterns concern class and object composition, ensuring that changes in on
 • Proxy: Supplies a substitute or placeholder to regulate access to another object.
 
 
-##3. Behavioral Patterns
+## 3. Behavioral Patterns
 These patterns focus on communication and assignment of responsibilities between objects.
 
 • Chain of Responsibility: Relays requests sequentially along a dynamic chain of handlers.
