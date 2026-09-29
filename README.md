@@ -75,9 +75,9 @@ The project contains Java implementations and examples of the three main categor
 
   *  Iterator
   
-    **Java Library Example:**
+     **Java Library Example:**
 
-      `java.util.Iterator`
+       `java.util.Iterator`
 
   * Mediator
 
