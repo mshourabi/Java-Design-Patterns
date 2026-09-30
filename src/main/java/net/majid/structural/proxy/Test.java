@@ -1,4 +1,4 @@
-package net.majid.behavioral.proxy;
+package net.majid.structural.proxy;
 
 public class Test {
     public static void main(String[] args) {
